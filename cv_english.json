@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "ANDRES FELIPE RODRIGUEZ",
+    "label": "Flight Attendant and Airport Services Assistant",
+    "image": "/me.webp",
+    "email": "andresrodriguezk07@gmail.com",
+    "phone": "+57 3214556316",
+    "url": "",
+    "summary": "I am a passionate and dedicated person, focused on customer service. I have skills in leadership, teamwork, and assertive communication, which have allowed me to contribute significantly to my work. I am constantly looking for opportunities to grow professionally and contribute my knowledge in dynamic and challenging environments, always with attention to detail and a commitment to improving the customer experience and team efficiency.",
+    "location": {
+      "address": "",
+      "postalCode": "110621",
+      "city": "Bogotá",
+      "countryCode": "COL",
+      "region": "Colombia"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "OPAIN / Serdan",
+      "position": "Information Officer",
+      "url": "",
+      "startDate": "2023-12-01",
+      "endDate": "2024-05-01",
+      "summary": "Most-watched programming streamer in Spanish on Twitch. Over 1 million followers across all my social networks. Recognized by Google, Microsoft, and GitHub for my impact on the developer community.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "SATENA",
+      "position": "Internship",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Led a technical convergence between different products and migrated a monolithic architecture to a more flexible and optimized one. Promoted good practices and performance culture improvements, as well as fast delivery of value to users.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "SURTISONIA SAS",
+      "position": "Salesperson",
+      "startDate": "2020-05-07",
+      "endDate": "2021-09-01",
+      "summary": "Developed a geolocated news platform and an API to consume the information. Scaled the services to handle the load of hundreds of thousands of requests per day. Cut delivery and deployment times to production in half. Collaborated with Mozilla and Telefónica to develop the first app for televisions with FirefoxOS.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Aerocefiro",
+      "url": "",
+      "area": "Aeronautics",
+      "studyType": "Professional training",
+      "startDate": "2022-01-01",
+      "endDate": "2022-06-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Basic First Aid Training",
+      "url": " ",
+      "area": "100 hours of intensity",
+      "studyType": "",
+      "startDate": "2019-05-04",
+      "endDate": "2019-07-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "American School Way",
+      "url": " ",
+      "area": "English",
+      "studyType": "",
+      "startDate": "2019-05-04",
+      "endDate": "2019-07-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Bernardo Jaramillo",
+      "url": " ",
+      "area": "High School Education",
+      "studyType": "",
+      "startDate": "2019-05-04",
+      "endDate": "2019-07-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Decision Making",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Native Spanish",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "English B1",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ]
+}

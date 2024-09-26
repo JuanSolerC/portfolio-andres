@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "ANDRES FELIPE RODRIGUEZ",
+    "label": "Auxiliar de Vuelo y Servicios Aeroportuarios",
+    "image": "/me.webp",
+    "email": "andresrodriguezk07@gmail.com",
+    "phone": "+57 3214556316",
+    "url": "",
+    "summary": "Soy una persona apasionada y dedicada, con enfoque en el servicio al cliente. Tengo habilidades en liderazgo, trabajo en equipo y comunicación asertiva, lo que me ha permitido contribuir de manera significativa en mis labores. Busco continuamente oportunidades para crecer profesionalmente y aportar mis conocimientos en entornos dinámicos y desafiantes, siempre con atención a los detalles y el compromiso de mejorar la experiencia del cliente y la eficiencia en los equipos de trabajo.",
+    "location": {
+      "address": "",
+      "postalCode": "110621",
+      "city": "Bogotá",
+      "countryCode": "COL",
+      "region": "Colombia"
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "OPAIN / Serdan",
+      "position": "Informador",
+      "url": "",
+      "startDate": "2023-12-01",
+      "endDate": "2024-05-01",
+      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "SATENA",
+      "position": "Pasantías",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "SURTISONIA SAS",
+      "position": "Vendedor",
+      "startDate": "2020-05-07",
+      "endDate": "2021-09-01",
+      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [{
+    "institution": "Aerocefiro",
+    "url": "",
+    "area": "Aeronáutica",
+    "studyType": "Formación profesional",
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "score": "",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "Formación básica en primeros auxilios",
+    "url": " ",
+    "area": "intensidad horaria 100 horas ",
+    "studyType": "",
+    "startDate": "2019-05-04",
+    "endDate": "2019-07-01",
+    "score": "",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "American School Way",
+    "url": " ",
+    "area": "Inglés",
+    "studyType": "",
+    "startDate": "2019-05-04",
+    "endDate": "2019-07-01",
+    "score": "",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "Bernardo Jaramillo",
+    "url": " ",
+    "area": "Formación bachiller ",
+    "studyType": "",
+    "startDate": "2019-05-04",
+    "endDate": "2019-07-01",
+    "score": "",
+    "courses": [
+      ""
+    ]
+  }
+],
+  "skills": [
+    {
+      "name": "Liderazgo",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Comunicación",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Toma de decisiones",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Español Nativo",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Inglés B1",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ]
+}
